@@ -1,4 +1,4 @@
-# tugas2
+# tugas2 (Week 3)
 
 A new Flutter project.
 
@@ -15,3 +15,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Widget Tree
+
+![Untitled (1)](https://github.com/user-attachments/assets/b255ac0c-d817-41e1-b0f1-1fe4b56e4c83)
+
+Link : https://miro.com/app/board/uXjVGwLECQQ=/?share_link_id=51137085358
